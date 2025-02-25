@@ -1,0 +1,12 @@
+Metadata-Version: 2.2
+Name: spreadit-backend
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: hatch>=1.14.0
+Requires-Dist: fastapi[all]>=0.115.8
+
+# spreadit-backend
+Backend for the Spotify + Reddit Team!

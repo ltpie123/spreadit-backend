@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+app/src/app/__about__.py
+app/src/app/__init__.py
+app/tests/__init__.py
+spreadit_backend.egg-info/PKG-INFO
+spreadit_backend.egg-info/SOURCES.txt
+spreadit_backend.egg-info/dependency_links.txt
+spreadit_backend.egg-info/requires.txt
+spreadit_backend.egg-info/top_level.txt

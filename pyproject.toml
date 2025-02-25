@@ -1,0 +1,18 @@
+[project]
+name = "spreadit-backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+   "hatch>=1.14.0",
+   "fastapi[all]",
+   "pre-commit>=4.1.0",
+   "sqlalchemy>=2.0.38",
+   "python-dotenv>=1.0.1",
+]
+
+[tool.hatch.envs.default]
+# Default environment scripts
+
+[tool.hatch.envs.types]
